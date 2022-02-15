@@ -16,8 +16,10 @@ export default function Bugs() {
           <p> </p>
           <p> </p>
           <p> </p>
-          <p>search dosnt work</p>
-          <p>contact dosnt work</p>
+          <p>search do not work</p>
+          <p>footer links do not work</p>
+
+          <h3>to do </h3>
           <p>tags as actuall buttons </p>
         </Col>
       </Row>

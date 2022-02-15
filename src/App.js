@@ -87,7 +87,7 @@ export default function App() {
 
               <div className="nav-bar-a">
                 <a
-                  href="https://wbs-blog.netlify.app/"
+                  href="https://react-cv-blog.netlify.app/"
                   rel="noopener noreferrer"
                 >
                   <img
