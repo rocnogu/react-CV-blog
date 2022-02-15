@@ -56,11 +56,11 @@ export default function App() {
     const fetchData = async () => {
       // fetch Recipes Data
       const RecipesResult = await axios(
-        " https://rocnogu-blog-express.herokuapp.com/recipes"
+        "https://express-cv-blog.herokuapp.com/recipes"
       );
       // fetch Stories Data
       const StoriesResult = await axios(
-        "https://rocnogu-blog-express.herokuapp.com/stories"
+        "https://express-cv-blog.herokuapp.com/stories"
       );
       //
       setRecipesData(RecipesResult.data);
